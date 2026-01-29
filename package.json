@@ -1,14 +1,43 @@
 {
   "name": "ai-merge-resolve",
   "version": "1.0.0",
-  "description": "Resolve git merge conflicts intelligently using AI",
+  "description": "AI-powered merge conflict resolver - intelligent conflict resolution with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-merge-resolve": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["git", "merge", "conflict", "ai", "cli", "resolve"],
+  "bin": {
+    "ai-merge-resolve": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "git",
+    "merge",
+    "conflict",
+    "resolution",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "version-control",
+    "collaboration"
+  ],
   "license": "MIT",
-  "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1" },
-  "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.73.0",
+    "ora": "^5.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  },
   "author": "LXGIC Studios",
-  "repository": { "type": "git", "url": "https://github.com/lxgicstudios/ai-merge-resolve" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxgicstudios/ai-merge-resolve"
+  }
 }
