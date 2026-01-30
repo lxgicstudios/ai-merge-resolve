@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-merge-resolve.svg)](https://www.npmjs.com/package/ai-merge-resolve)
 [![npm downloads](https://img.shields.io/npm/dm/ai-merge-resolve.svg)](https://www.npmjs.com/package/ai-merge-resolve)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-merge-resolve)](https://github.com/lxgic-studios/ai-merge-resolve/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Stop manually resolving merge conflicts. Let AI figure out the best merge.
