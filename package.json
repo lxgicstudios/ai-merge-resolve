@@ -1,5 +1,5 @@
 {
-  "name": "ai-merge-resolve",
+  "name": "@lxgicstudios/ai-merge-resolve",
   "version": "1.0.0",
   "description": "AI-powered merge conflict resolver - intelligent conflict resolution with GPT",
   "main": "dist/index.js",
