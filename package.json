@@ -15,30 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "git",
-    "merge",
-    "conflict",
-    "resolution",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
+    "claude",
+    "cli",
+    "collaboration",
+    "conflict",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "git",
+    "llm-optimized",
+    "merge",
+    "modern-seo",
     "nodejs",
-    "version-control",
-    "collaboration"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-merge-resolve#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-merge-resolve"
+    "url": "https://github.com/LXGIC-Studios/ai-merge-resolve"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-merge-resolve/issues"
